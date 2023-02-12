@@ -12,19 +12,19 @@ Compared to the previous version , the following changes have appeared: not yet
 <ol> 
 <li>Маркетинг</li>
     <ol type="i">
-        <li>Заинтересанты</li>
-        <li>Целевая аудитория</li>
-        <li>Конкурентный анализ</li>
-        <li>Анализ экономики</li>
-        <li>Пользовательские истории</li>
+        <li> <a href="m2-prepare/marketing/StakeholdersList.md">Stakeholders list </a> </li>
+        <li> <a href="m2-prepare/marketing/TargetGroup.md"> Target group </a> </li>
+        <li> <a href="m2-prepare/marketing/CompetiveAnalysis.md">  Competitive analysis</a></li>
+        <li><a href="m2-prepare/marketing/EconomicAnalysis.md">  Economic analysis</a></li>
+        <li><a href="m2-prepare/marketing/UserStories.md"> User stories</a></li>
     </ol>
 <li>Devops</li>
     <ol type="i">
-        <li>Схема инфраструктуры</li>
-        <li>Схема мониторинга</li>
+        <li><a href="m2-prepare/marketing/InfrastructureSchema.md">Infrastructure schema </a></li>
+        <li><a href="./m2-prepare/MonitoringSchema.md">Monitoring schema</a></li>
     </ol>
-<li>Тесты</li>
-<li>Архитектура</li>
+<li>Tests</li>
+<li>Architecture</li>
     <ol type="i">
         <li>Компонентная схема</li>
         <li>Интеграционая схема</li>
