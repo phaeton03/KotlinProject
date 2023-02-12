@@ -26,9 +26,9 @@ Compared to the previous version , the following changes have appeared: not yet
 <li>Tests</li>
 <li>Architecture</li>
     <ol type="i">
-        <li>Компонентная схема</li>
-        <li>Интеграционая схема</li>
-        <li>Описание API</li>
+        <li><a href="m2-prepare/architecture/ComponentSchema.md">Component schema </a></li>
+        <li><a href="m2-prepare/architecture/IntegrationSchema.md">Integration schema </a></li>
+        <li><a href="m2-prepare/architecture/APIDescription.md">API description </a></li>
     </ol>
 </ol>    
     
