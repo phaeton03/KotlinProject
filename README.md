@@ -20,8 +20,8 @@ Compared to the previous version , the following changes have appeared: not yet
     </ol>
 <li>Devops</li>
     <ol type="i">
-        <li><a href="m2-prepare/marketing/InfrastructureSchema.md">Infrastructure schema </a></li>
-        <li><a href="./m2-prepare/MonitoringSchema.md">Monitoring schema</a></li>
+        <li><a href="m2-prepare/devops/InfrastructureSchema.md">Infrastructure schema </a></li>
+        <li><a href="./m2-prepare/devops/MonitoringSchema.md">Monitoring schema</a></li>
     </ol>
 <li>Tests</li>
 <li>Architecture</li>
